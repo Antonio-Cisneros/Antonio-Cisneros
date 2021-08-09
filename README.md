@@ -2,7 +2,7 @@
 
 **About me:**
 
-I'm a prospective Data Engineer, I'm sharing some repositories which contains the projects and activities that I has done during my time in college.
+I'm a Data Engineer, I'm sharing some repositories which contains personal and professinials activites and project since I started my path on Data.
 
 
 <!--
