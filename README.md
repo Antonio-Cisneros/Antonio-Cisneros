@@ -2,7 +2,7 @@
 
 **About me:**
 
-I'm a Data Engineer, I'm sharing some repositories which contains personal and professinials activites and project since I started my path on Data.
+I'm a Data Engineer, I'm sharing some repositories which contains personal and professional activites since I started my path on Data.
 
 
 <!--
