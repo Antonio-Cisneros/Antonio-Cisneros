@@ -5,7 +5,7 @@
 Hi dear fellow, I'm sharing some repositories which contains personal and professional activites since I started my career. As a matter of fact, I try to to overcome any struggle or issue I might deal with any disruptive technology.
 
 - Recent Data Engineer graduate from [Universidad Politécnica de Yucatán](https://en.upy.edu.mx/) 🎓
-- I'm learning Cybersecurity topics to continue with my Kali Linux training :school:
+- I'm learning Cybersecurity topics to continue with my Kali Linux training :lock:
 
 ### Languages
 
