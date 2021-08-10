@@ -2,13 +2,23 @@
 
 **About me:**
 
-Hi dear fellows, I'm a Data Engineer working on Big Data projects. I'm sharing some repositories which contains personal and professional activites since I started my career. As a matter of fact, I try to to overcome any struggle or issue I might deal with any disruptive technology.
+Hi dear fellow, I'm sharing some repositories which contains personal and professional activites since I started my career. As a matter of fact, I try to to overcome any struggle or issue I might deal with any disruptive technology.
 
-### Programming languages
+- Recent Data Engineer graduate from [Universidad Politécnica de Yucatán](https://en.upy.edu.mx/) 🎓
+- I'm learning Cybersecurity topics to continue with my Kali Linux training :school:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
+### Languages
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+### Tech Stack
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+
+### 
 
 <!--
 **Antonio-Cisneros/Antonio-Cisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
